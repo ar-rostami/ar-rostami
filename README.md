@@ -1,7 +1,8 @@
-<p align="center">
+<p align="center>
   <img src="/Si1tEDxFg.png" alt="Sublime's custom image"/>
-  ### Hi there <img src="/wave.gif" width="25px"> I'm Alireza 
 </p>
+
+### Hi there <img src="/wave.gif" width="25px"> I'm Alireza 
 
 ## About me
  I am ambitious adventurous assiduous animated and so eager to learn new skills and improve my current ones and also I am open to trying new experiences and new technologies.
