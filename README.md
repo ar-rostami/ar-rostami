@@ -1,8 +1,8 @@
-<center>
-<img align="center" alt="Rostami Logo" src="/Si1tEDxFg.png" />
-<center/>
+<p align="center">
+  <img src="/Si1tEDxFg.png" alt="Sublime's custom image"/>
+</p>
 
-### Hi there <img src="https://www.uplooder.net/img/image/34/5e3df18ae94efa383d15114287c35765/wave.gif" width="25px"> I'm Alireza 
+### Hi there <img src="/wave.gif" width="25px"> I'm Alireza 
 
 ## About me
  I am ambitious adventurous assiduous animated and so eager to learn new skills and improve my current ones and also I am open to trying new experiences and new technologies.
