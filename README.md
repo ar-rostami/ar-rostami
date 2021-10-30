@@ -1,5 +1,6 @@
+<center>
 <img align="center" alt="Rostami Logo" src="/Si1tEDxFg.png" />
-</br>
+<center/>
 
 ### Hi there <img src="https://www.uplooder.net/img/image/34/5e3df18ae94efa383d15114287c35765/wave.gif" width="25px"> I'm Alireza 
 
