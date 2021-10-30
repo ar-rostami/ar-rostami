@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="/Si1tEDxFg.png" alt="Sublime's custom image"/>
-</p>
-
 ### Hi there <img src="/wave.gif" width="25px"> I'm Alireza 
 
 ## About me
