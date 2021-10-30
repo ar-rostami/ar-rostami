@@ -1,4 +1,4 @@
-<p align="center>
+<p align="center">
   <img src="/Si1tEDxFg.png" alt="Sublime's custom image"/>
 </p>
 
