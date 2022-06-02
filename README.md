@@ -3,10 +3,10 @@
 ## About me
  I am ambitious adventurous assiduous animated and so eager to learn new skills and improve my current ones and also I am open to trying new experiences and new technologies.
 </br>
+
+<!--
  I would expect to work in a team with great teamwork and collaboration and having professional
    and also in a motivating environment with enthusiastic  
-<!--
-
 ## How to reach me
 <a href="https://www.instagram.com/alireza.ros/">
 <img align="left" alt="Alireza's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
