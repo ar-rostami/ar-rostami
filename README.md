@@ -1,4 +1,4 @@
-### Hi there <img src="/wave.gif" width="12%"> I'm Alireza 
+### Hi there <img src="/wave.gif" width="6%"> I'm Alireza 
 
 ## About me
  I am ambitious adventurous assiduous animated and so eager to learn new skills and improve my current ones and also I am open to trying new experiences and new technologies.
